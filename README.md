@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-自作キーボード LisMのファームウェアです。
+自作キーボード LisMのファームウェアです。  
+DYA Studio対応版は[dya-studio_zmk-v0.3](https://github.com/4mplelab/zmk-config-LisM/tree/dya-studio_zmk-v0.3)ブランチから取得できます。
 
 ## 生成されるファームウェア一覧
 
