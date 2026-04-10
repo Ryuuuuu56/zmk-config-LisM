@@ -44,16 +44,16 @@ layers:
   - AC SEARCH
   - {t: F12, h: Mouse Layer}
   Mark Layer:
-  - Sft+Gui+4
-  - F4
-  - (
-  - )
-  - ''
-  - '~'
   - '!'
   - '@'
   - '#'
   - $
+  - '%'
+  - ^
+  - '&'
+  - '*'
+  - (
+  - )
   - '&emoji'
   - F5
   - '['
