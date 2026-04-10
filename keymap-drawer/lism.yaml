@@ -38,10 +38,10 @@ layers:
   - {t: SPACE, h: Mark Layer}
   - {t: BS, h: Number Layer}
   - {t: ENTER, h: Mark Layer}
-  - '&LG_macro'
+  - {t: LANGUAGE 1, h: RIGHT COMMAND}
   - Sft+Gui+4
-  - F7
-  - F10
+  - {t: LANGUAGE 2, h: RIGHT CONTROL}
+  - AC SEARCH
   - {t: F12, h: Mouse Layer}
   Mark Layer:
   - Sft+Gui+4
