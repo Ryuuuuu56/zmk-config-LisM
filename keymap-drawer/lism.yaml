@@ -38,7 +38,7 @@ layers:
   - {t: SPACE, h: Mark Layer}
   - {t: BS, h: Number Layer}
   - {t: ENTER, h: Mark Layer}
-  - {t: Ctl+ENTER, h: RCMD}
+  - '&LG_macro'
   - Sft+Gui+4
   - F7
   - F10
