@@ -32,10 +32,10 @@
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
             bindings =
-                <&macro_press>,
                 <&kp SPACE>,
-                <&macro_tap>,
-                <&kp RIGHT_COMMAND>;
+                <&macro_press>,
+                <&kp RIGHT_COMMAND>,
+                <&macro_tap>;
 
             label = "LG_MACRO";
         };
